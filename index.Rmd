@@ -1,0 +1,8 @@
+---
+title: "The Sarcomere"
+---
+
+This is a sarcomere
+
+<img src="files/Fig1.png" style="width:50%">
+
