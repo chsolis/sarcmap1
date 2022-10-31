@@ -8,7 +8,7 @@ right:
   - icon: fa-envelope fa-lg
   href: mailto:<myemail@someemail.com>
   - icon: fa-github fa-lg
-href: http://github.com/<chsolis>/
+href: https://chsolis.github.io/sarcmap1/
   output:
   html_document:
   theme: darkly
